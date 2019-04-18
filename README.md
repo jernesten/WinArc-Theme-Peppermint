@@ -19,3 +19,12 @@ Copy the theme into:
 or
 
 /usr/share/themes
+
+## Icon Pack employed in the picture
+
+https://github.com/B00merang-Artwork/Windows-10
+
+## Search field applet (Cortana style) employed in the picture
+
+xfce4-smartbookmark-plugin Package
+(https://pkgs.org/download/xfce4-smartbookmark-plugin)
