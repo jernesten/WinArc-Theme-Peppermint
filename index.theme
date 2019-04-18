@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=WinArc
+Comment=A flat theme with transparent elements
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=WinArc
+CursorTheme=DMZ-White
+ButtonLayout=menu:minimize,maximize,close
